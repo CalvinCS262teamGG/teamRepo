@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Hello Team GG!</string>
+    <string name="intro_text">Welcome to LifeManager!</string>
+    <string name="button_schedule">Schedule</string>
+    <string name="button_analytics">Analytics</string>
+    <string name="title_activity_analytics">Analytics</string>
+    <string name="spinner_text">How much time have you spent in the past:</string>
+    <string name="calculate">Calculate</string>
+    <string name="analyticsTotalTimes">This will hold total times spent \n Gaming - 100 \n Sleeping - 0 \n Homework - 5 \n CS262 - over 9000</string>
+    <string-array name="binArray">
+        <item>Day</item>
+        <item>Week</item>
+        <item>Month</item>
+        <item>Year</item>
+    </string-array>
+    <string name="title_activity_schedule">Schedule</string>
 </resources>
