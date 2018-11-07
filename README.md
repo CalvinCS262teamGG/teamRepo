@@ -4,7 +4,7 @@ LifeManager is an application that enables its users to keep track of daily acti
 
 What makes LifeManager different is the simplicity of it. We aim to make it quick to use and easy to read and understand how your time is spent. Our app will remove complex number displays and unnecessary button pushing to program certain specific wants.
 
-As an example, you will be able to see, total time spent per day/week/month/year, what time of day one usually starts on a certain action and what an average day of the week looks like (this would be specific to each day of the week). Help make your life a little more manageable with LifeManager
+As an example, you will be able to see, total time spent per day/week/month/year, what time of day one usually starts on a certain action and what an average day of the week looks like (this would be specific to each day of the week). Help make your life a little more manageable with LifeManager.
 
 ## UI Model
 ![UI Model](uimodel.jpg)
