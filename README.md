@@ -16,9 +16,9 @@ As an example, you will be able to see, total time spent per day/week/month/year
 
 ## Supplemental Specification:
     - A user should be able to learn our app in less than 5 minutes.
-    - The application will be written in java.
-    - The application will be built using android studio.
+    - The application will be written in Java.
+    - The application will be built using Android Studio.
     - The application should be testable to determine if it does what it should do.
     - The application should run without crashing.
     - The application should respond to requests in 1 to 3 seconds.
-    - All android users should be able to use our application.
+    - All Android users should be able to use our application.
