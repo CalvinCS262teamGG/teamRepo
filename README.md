@@ -17,7 +17,7 @@ As an example, you will be able to see, total time spent per day/week/month/year
 ![Deployment Diagram](deploymentdiagram.jpg)
 
 ## Usability Test
-![Usability Test Report](Usability_Test_Report.jpg)
+![Usability Test Report](Usability_Test_Report.pdf)
 
 
 ## Supplemental Specification:
