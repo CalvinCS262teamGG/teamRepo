@@ -13,6 +13,9 @@ As an example, you will be able to see, total time spent per day/week/month/year
 ## Domain Model
 ![Domain Model](domainModel.jpg)
 
+## Deployment Diagram
+![Deployment Diagram](deploymentdiagram.jpg)
+
 
 ## Supplemental Specification:
     - A user should be able to learn our app in less than 5 minutes.
