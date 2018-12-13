@@ -28,3 +28,10 @@ As an example, you will be able to see, total time spent per day/week/month/year
     - The application should run without crashing.
     - The application should respond to requests in 1 to 3 seconds.
     - All Android users should be able to use our application.
+    
+## Presentations
+First Presentation
+https://docs.google.com/presentation/d/12QEjSSwGGOJTPdq2CIrPrGzo5RlYBHKgmiaFyLaucjA/edit?usp=sharing
+
+Final Presentation
+https://docs.google.com/presentation/d/1P0RS4svbd4ElH5-il3M0UaPtKRfCnYdB0GEgEvWSjTU/edit?usp=sharing
